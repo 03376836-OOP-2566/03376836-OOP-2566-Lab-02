@@ -208,7 +208,7 @@ class double
 ```
 
 
-# bool
+# Bool
 ```plantuml
 @startuml
 class bool
@@ -220,6 +220,60 @@ class bool
   + GetHashCode() : int
   + GetTypeCode() : TypeCode
   + ToString(...) : string
+}
+@enduml
+#Sittha Klaphanich
+```
+
+# Char
+```plantuml
+@startuml
+class char
+{
+  + MaxValue : char
+  + MinValue : char
+
+  + Parse(...) : char
+  + TryParse(...) : char
+  + CompareTo(...) : char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+#Sittha Klaphanich
+```
+
+# Decimal
+```plantuml
+@startuml
+class decimal
+{
+  + Currency(...) : decimal
+}
+@enduml
+#Sittha Klaphanich
+```
+
+# Object
+```plantuml
+@startuml
+class object
+{
+  + Type(...) : GetType
+}
+@enduml
+#Sittha Klaphanich
+```
+
+# String
+```plantuml
+@startuml
+class string
+{
+  + Intern(...) : string
+  + IsInterned(...) : string 
 }
 @enduml
 #Sittha Klaphanich
