@@ -31,3 +31,5 @@
 ****[#LightPink] char
 @endmindmap
 ```
+
+![image](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-02/assets/567256/566b4489-893b-49c9-b376-53643620ddc5)
