@@ -14,14 +14,14 @@ class SByte
   + TryParse(...) : sbyte
   + CompareTo(...) : sbyte
   + Equals(...) : bool
-  + GatHashCode() : int
+  + GetHashCode() : int
   + GetTypeCode() : TypeCode
   + ToString(...) : string
 }
 @enduml
 #Sittha Klaphanich
 ```
-![](./Images/SByte.png)
+
 
 # Byte
 ```plantuml
@@ -35,14 +35,14 @@ class Byte
   + TryParse(...) : bool
   + CompareTo(...) : Byte
   + Equals(...) : bool
-  + GatHashCode() : int
+  + GetHashCode() : int
   + GetTypeCode() : TypeCode
   + ToString(...) : string
 }
 @enduml
 #Sittha Klaphanich
 ```
-![](./Images/Byte.png)
+
 
 # Short
 ```plantuml
@@ -56,11 +56,32 @@ class short
   + TryParse(...) : bool
   + CompareTo(...) : short
   + Equals(...) : bool
-  + GatHashCode() : int
+  + GetHashCode() : int
   + GetTypeCode() : TypeCode
   + ToString(...) : string
 }
 @enduml
 #Sittha Klaphanich
 ```
-![](./Images/Short.png)
+
+
+# UShort
+```plantuml
+@startuml
+class ushort
+{
+  + MaxValue : ushort
+  + MinValue : ushort
+
+  + Parse(...) : ushort
+  + TryParse(...) : bool
+  + CompareTo(...) : ushort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+#Sittha Klaphanich
+```
+![](./Images/UShort.png)
