@@ -41,4 +41,4 @@ Console.WriteLine($"dynamic dy\t{dy.GetType()}\t{"---"}\t{"---"}\t{"---"} ");
 
 Console.WriteLine("============================================================================");
 ```
-![](./Images/predefined type.png)
+![](./Images/type.png)
