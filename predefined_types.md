@@ -1,4 +1,4 @@
-```puml
+```plantuml
 @startmindmap
 *[#LightGreen] Predefined types
 **[#LightPink] object
