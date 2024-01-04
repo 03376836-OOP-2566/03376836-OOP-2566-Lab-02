@@ -32,4 +32,5 @@
 @endmindmap
 ```
 
-![image](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-02/assets/567256/566b4489-893b-49c9-b376-53643620ddc5)
+![image](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-02/assets/567256/773a328f-3ec1-4e7c-a655-fe913d489bfa)
+
