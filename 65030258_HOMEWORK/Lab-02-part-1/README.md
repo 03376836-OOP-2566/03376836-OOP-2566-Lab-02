@@ -21,7 +21,7 @@ class SByte
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/SByte.png)
 
 # Byte
 ```plantuml
@@ -42,7 +42,7 @@ class Byte
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/Byte.png)
 
 # Short
 ```plantuml
@@ -63,7 +63,7 @@ class short
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/Short.png)
 
 # UShort
 ```plantuml
