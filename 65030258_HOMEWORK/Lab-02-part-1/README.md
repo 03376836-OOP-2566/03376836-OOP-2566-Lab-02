@@ -146,3 +146,81 @@ class long
 @enduml
 #Sittha Klaphanich
 ```
+
+# ULong
+```plantuml
+@startuml
+class long
+{
+  + MaxValue : ulong
+  + MinValue : ulong
+
+  + Parse(...) : ulong
+  + TryParse(...) : ulong
+  + CompareTo(...) : ulong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+#Sittha Klaphanich
+```
+
+# Float
+```plantuml
+@startuml
+class long
+{
+  + MaxValue : float
+  + MinValue : float
+
+  + Parse(...) : float
+  + TryParse(...) : float
+  + CompareTo(...) : float
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+#Sittha Klaphanich
+```
+
+# Double
+```plantuml
+@startuml
+class double
+{
+  + MaxValue : double
+  + MinValue : double
+
+  + Parse(...) : double
+  + TryParse(...) : double
+  + CompareTo(...) : double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+#Sittha Klaphanich
+```
+
+
+# bool
+```plantuml
+@startuml
+class bool
+{
+  + Parse(...) : string
+  + TryParse(...) : bool
+  + CompareTo(...) : bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+#Sittha Klaphanich
+```
