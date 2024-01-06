@@ -655,3 +655,7 @@ class string
 
 
 #### ในส่วนของ C# นั้นภายในข้อมูล dynamic  ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง  และ ได้มีการติดต่อกันทุกประเภทของข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน  compile time ทำให้ไม่มีข้อมูลที่ชัดเจนและแน่นอน
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/edf4d592-1f58-49f0-80d3-25ddcedc7bf7)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/1159e5ff-7932-4ddd-8243-d24ba4cff35d)
+
