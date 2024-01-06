@@ -21,7 +21,7 @@ class SByte
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/SByte.png)
 
 # Byte
 ```plantuml
@@ -42,7 +42,7 @@ class Byte
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/Byte.png)
 
 # Short
 ```plantuml
@@ -63,7 +63,7 @@ class short
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/Short.png)
 
 # UShort
 ```plantuml
@@ -84,7 +84,7 @@ class ushort
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/UShort.png)
 
 # Int
 ```plantuml
@@ -105,7 +105,7 @@ class int
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/Int.png)
 
 # UInt
 ```plantuml
@@ -126,6 +126,7 @@ class uint
 @enduml
 #Sittha Klaphanich
 ```
+![](./Images/UInt.png)
 
 # Long
 ```plantuml
@@ -146,6 +147,7 @@ class long
 @enduml
 #Sittha Klaphanich
 ```
+![](./Images/Long.png)
 
 # ULong
 ```plantuml
@@ -166,6 +168,9 @@ class ulong
 @enduml
 #Sittha Klaphanich
 ```
+
+![](./Images/ULong.png)
+
 
 # Float
 ```plantuml
@@ -191,6 +196,8 @@ class float
 @enduml
 #Sittha Klaphanich
 ```
+![](./Images/Float.png)
+
 
 # Double
 ```plantuml
@@ -215,7 +222,7 @@ class double
 @enduml
 #Sittha Klaphanich
 ```
-
+![](./Images/Double.png)
 
 # Bool
 ```plantuml
@@ -237,6 +244,7 @@ class bool
 @enduml
 #Sittha Klaphanich
 ```
+![](./Images/Bool.png)
 
 # Char
 ```plantuml
@@ -257,6 +265,7 @@ class char
 @enduml
 #Sittha Klaphanich
 ```
+![](./Images/Char.png)
 
 # Decimal
 ```plantuml
@@ -268,6 +277,7 @@ class decimal
 @enduml
 #Sittha Klaphanich
 ```
+![](./Images/Decimal.png)
 
 # Object
 ```plantuml
@@ -279,6 +289,7 @@ class object
 @enduml
 #Sittha Klaphanich
 ```
+![](./Images/Object.png)
 
 # String
 ```plantuml
@@ -291,3 +302,4 @@ class string
 @enduml
 #Sittha Klaphanich
 ```
+![](./Images/String.png)
