@@ -174,6 +174,11 @@ class long
 {
   + MaxValue : float
   + MinValue : float
+  + Epsilon  : float
+  + NegativeInfinity : float
+  + PositiveInfinity : float
+  + NaN : float
+
 
   + Parse(...) : float
   + TryParse(...) : float
@@ -194,6 +199,10 @@ class double
 {
   + MaxValue : double
   + MinValue : double
+  + Epsilon  : double
+  + NegativeInfinity : double
+  + PositiveInfinity : double
+  + NaN : double
 
   + Parse(...) : double
   + TryParse(...) : double
@@ -213,6 +222,10 @@ class double
 @startuml
 class bool
 {
+  + TrueLiteral : string
+  + FalseString : string
+
+
   + Parse(...) : string
   + TryParse(...) : bool
   + CompareTo(...) : bool
