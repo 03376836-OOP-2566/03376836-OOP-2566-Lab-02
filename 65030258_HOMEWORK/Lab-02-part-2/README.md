@@ -37,5 +37,10 @@ Console.WriteLine($"object ob\t{ob.GetType()}\t{"---"}\t\t{decimal.MaxValue}\t{d
 Console.WriteLine($"string st\t{st.GetType()}\t{st.GetTypeCode()}\t\t{"---"}\t{"---"} ");
 Console.WriteLine($"dynamic dy\t{dy.GetType()}\t{"---"}\t{"---"}\t{"---"} ");
 Console.WriteLine("============================================================================");
+
+//Sittha Klaphanich
+
 ```
+
+
 ![](./Images/type.png)
