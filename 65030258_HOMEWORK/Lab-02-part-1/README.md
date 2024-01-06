@@ -110,7 +110,7 @@ class int
 # UInt
 ```plantuml
 @startuml
-class int
+class uint
 {
   + MaxValue : uint
   + MinValue : uint
@@ -150,7 +150,7 @@ class long
 # ULong
 ```plantuml
 @startuml
-class long
+class ulong
 {
   + MaxValue : ulong
   + MinValue : ulong
@@ -170,7 +170,7 @@ class long
 # Float
 ```plantuml
 @startuml
-class long
+class float
 {
   + MaxValue : float
   + MinValue : float
