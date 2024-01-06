@@ -397,7 +397,7 @@ class string
 # dynamic
 #### dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน ## เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3 เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
-# sByte
+### sByte
 ```plantuml   
 @startuml
 class sbyte
@@ -415,7 +415,7 @@ class sbyte
 @enduml
 ```
 
-# byte
+### byte
 ```plantuml
 @startuml
 class byte
@@ -433,7 +433,7 @@ class byte
 @enduml
 ```
 
-# short
+### short
 ```plantuml
 @startuml
 class short
@@ -451,7 +451,7 @@ class short
 @enduml
 ```
 
-# ushort
+### ushort
 ```plantuml
 @startuml
 class ushort
@@ -469,7 +469,7 @@ class ushort
 @enduml
 ```
 
-# int
+### int
 ```plantuml
 @startuml
 class int
@@ -487,7 +487,7 @@ class int
 @enduml
 ```
 
-# uint
+### uint
 ```plantuml
 @startuml
 class uint
@@ -505,7 +505,7 @@ class uint
 @enduml
 ```
 
-# long
+### long
 ```plantuml
 @startuml
 class long
@@ -523,7 +523,7 @@ class long
 @enduml
 ```
 
-# ulong
+### ulong
 ```plantuml
 @startuml
 class ulong
@@ -541,7 +541,7 @@ class ulong
 @enduml
 ```
 
-# float
+### float
 ```plantuml
 @startuml
 class float
@@ -562,7 +562,7 @@ class float
 @enduml
 ```
 
-# Double
+### Double
 ```plantuml
 @startuml
 class Double
@@ -583,7 +583,7 @@ class Double
 @enduml
 ```
 
-# bool
+### bool
 ```plantuml
 @startuml
 class bool
@@ -601,7 +601,7 @@ class bool
 @enduml
 ```
 
-# char
+### char
 ```plantuml
 @startuml
 class char
@@ -619,7 +619,7 @@ class char
 @enduml
 ```
 
-# decimal
+### decimal
 ```plantuml
 @startuml
 class decimal
@@ -630,7 +630,7 @@ class decimal
 @enduml
 ```
 
-# object
+### object
 ```plantuml
 @startuml
 class object
@@ -640,7 +640,7 @@ class object
 @enduml
 ```
 
-# string
+### string
 ```plantuml
 @startuml
 class string
@@ -651,7 +651,7 @@ class string
 @enduml
 ```
 
-# dynamic
+### dynamic
 
 
 #### ในส่วนของ C# นั้นภายในข้อมูล dynamic  ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง  และ ได้มีการติดต่อกันทุกประเภทของข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน  compile time ทำให้ไม่มีข้อมูลที่ชัดเจนและแน่นอน
