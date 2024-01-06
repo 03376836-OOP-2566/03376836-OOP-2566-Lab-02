@@ -110,7 +110,7 @@ class int
 # UInt
 ```plantuml
 @startuml
-class int
+class uint
 {
   + MaxValue : uint
   + MinValue : uint
@@ -150,7 +150,7 @@ class long
 # ULong
 ```plantuml
 @startuml
-class long
+class ulong
 {
   + MaxValue : ulong
   + MinValue : ulong
@@ -170,10 +170,15 @@ class long
 # Float
 ```plantuml
 @startuml
-class long
+class float
 {
   + MaxValue : float
   + MinValue : float
+  + Epsilon  : float
+  + NegativeInfinity : float
+  + PositiveInfinity : float
+  + NaN : float
+
 
   + Parse(...) : float
   + TryParse(...) : float
@@ -194,6 +199,10 @@ class double
 {
   + MaxValue : double
   + MinValue : double
+  + Epsilon  : double
+  + NegativeInfinity : double
+  + PositiveInfinity : double
+  + NaN : double
 
   + Parse(...) : double
   + TryParse(...) : double
@@ -213,6 +222,10 @@ class double
 @startuml
 class bool
 {
+  + TrueLiteral : string
+  + FalseString : string
+
+
   + Parse(...) : string
   + TryParse(...) : bool
   + CompareTo(...) : bool
