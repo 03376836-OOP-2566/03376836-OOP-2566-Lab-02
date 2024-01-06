@@ -658,4 +658,5 @@ class string
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/edf4d592-1f58-49f0-80d3-25ddcedc7bf7)
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/1159e5ff-7932-4ddd-8243-d24ba4cff35d)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/0e4d0229-4c5d-405c-bfb5-6b88e9851a14)
 
