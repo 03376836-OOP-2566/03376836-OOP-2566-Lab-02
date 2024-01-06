@@ -222,7 +222,7 @@ class double
 @enduml
 #Sittha Klaphanich
 ```
-![](./Images/Double.png)
+![](./Images/double.png)
 
 # Bool
 ```plantuml
@@ -277,7 +277,7 @@ class decimal
 @enduml
 #Sittha Klaphanich
 ```
-![](./Images/Decimal.png)
+![](./Images/decimal.png)
 
 # Object
 ```plantuml
@@ -289,7 +289,7 @@ class object
 @enduml
 #Sittha Klaphanich
 ```
-![](./Images/Object.png)
+![](./Images/object.png)
 
 # String
 ```plantuml
@@ -302,4 +302,4 @@ class string
 @enduml
 #Sittha Klaphanich
 ```
-![](./Images/String.png)
+![](./Images/string.png)
