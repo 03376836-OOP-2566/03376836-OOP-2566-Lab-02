@@ -53,8 +53,7 @@ Console.WriteLine("=============================================================
 
 # ผลการทดลอง
 
-```cs
-sbyte sb   = new sbyte();  // create new object
+```sbyte sb   = new sbyte();  // create new object
 byte bt    = new byte();
 short sh   = new short();
 ushort ush = new ushort();
@@ -80,13 +79,13 @@ Console.WriteLine($"byte bt\t\t{sb.GetType()}\t{bt.GetTypeCode()}\t\t{byte.MaxVa
 Console.WriteLine($"short sh\t{sb.GetType()}\t{sh.GetTypeCode()}\t\t{short.MaxValue}\t\t{short.MinValue}");
 Console.WriteLine($"ushort ush\t{sb.GetType()}\t{ush.GetTypeCode()}\t\t{ushort.MaxValue}\t\t{ushort.MinValue}\"");
 Console.WriteLine($"int ii\t\t{ii.GetType()}\t{ii.GetTypeCode()}\t\t{int.MaxValue}\t{int.MinValue} ");
-Console.WriteLine($"uint ui\t{sb.GetType()}\t{ui.GetTypeCode()}\t\t{uint.MaxValue}\t\t{uint.MinValue}\"");
-Console.WriteLine($"long lo\t{sb.GetType()}\t{lo.GetTypeCode()}\t\t{long.MaxValue}\t\t{long.MinValue}\"");
+Console.WriteLine($"uint ui\t\t{sb.GetType()}\t{ui.GetTypeCode()}\t\t{uint.MaxValue}\t\t{uint.MinValue}\"");
+Console.WriteLine($"long lo\t\t{sb.GetType()}\t{lo.GetTypeCode()}\t\t{long.MaxValue}\t\t{long.MinValue}\"");
 Console.WriteLine($"ulong ul\t{sb.GetType()}\t{ul.GetTypeCode()}\t\t{ulong.MaxValue}\t\t{ulong.MinValue}\"");
 Console.WriteLine($"float fl\t{sb.GetType()}\t{fl.GetTypeCode()}\t\t{float.MaxValue}\t\t{float.MinValue}\"");
 Console.WriteLine($"double db\t{sb.GetType()}\t{db.GetTypeCode()}\t\t{double.MaxValue}\t\t{double.MinValue}\"");
-Console.WriteLine($"bool bl\t{sb.GetType()}\t{bl.GetTypeCode()}\t\t{bool.TrueString}\t\t{bool.FalseString}\"");
-Console.WriteLine($"char ch\t{sb.GetType()}\t{ch.GetTypeCode()}\t\t{char.MaxValue}\t\t{char.MinValue}\"");
+Console.WriteLine($"bool bl\t\t{sb.GetType()}\t{bl.GetTypeCode()}\t\t{bool.TrueString}\t\t{bool.FalseString}\"");
+Console.WriteLine($"char ch\t\t{sb.GetType()}\t{ch.GetTypeCode()}\t\t{char.MaxValue}\t\t{char.MinValue}\"");
 Console.WriteLine($"decimal de\t{sb.GetType()}\t{de.GetTypeCode()}\t\t{decimal.MaxValue}\t\t{decimal.MinValue}\"");
 
 //---------------------------------------------------------------------------------------------------------
@@ -96,5 +95,8 @@ Console.WriteLine($"dymanic dy\t{ob.GetType()}");
 
 
 Console.WriteLine("============================================================================");
+cs
 
 ```
+
+![image](https://github.com/likunzz/03376836-OOP-2566-Lab-02/assets/144196696/0dd23a5f-5bfb-432e-bd48-0d24be0f0f64)
