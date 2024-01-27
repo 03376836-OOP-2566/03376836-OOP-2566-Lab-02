@@ -47,3 +47,10 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
+
+
+
+
+
+![image](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/32f59f48-4983-4b67-aa65-45f969fd36b6)

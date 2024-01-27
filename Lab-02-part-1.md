@@ -141,3 +141,76 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+
+![Screenshot 2024-01-27 230826](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/dadf897d-1e0a-400c-958d-fa6dbd8a898c)
+
+
+
+![Screenshot 2024-01-27 230848](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/bfce4348-0081-4f01-8898-c54beec3d86a)
+
+
+
+
+![Screenshot 2024-01-27 230702](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/76f9e122-69f8-44f0-9d5f-4da8dc04aa38)
+
+
+
+
+
+![Screenshot 2024-01-27 230723](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/0aa07cdd-128f-43d8-8d5a-8214bc28d9f3)
+
+
+
+
+
+
+![Screenshot 2024-01-27 230747](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/a1974af0-b455-4956-aec6-248d1ff5e44e)
+
+
+
+
+
+
+![Screenshot 2024-01-27 230805](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/f4fcb76a-93d0-4c8d-b9a9-6a1d860cbb69)
+
+
+
+
+
+
+
+![Screenshot 2024-01-27 230909](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/df5fcc76-032e-4109-84ff-318fb6c5312f)
+
+
+
+
+
+
+![Screenshot 2024-01-27 230927](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/86d07672-e1c2-48c3-a0ee-0d90ac0917e8)
+
+
+
+![Screenshot 2024-01-27 230946](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/3906e96d-98c4-41b2-9cdf-2d729fbb21c8)
+
+
+
+
+
+![Screenshot 2024-01-27 231025](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/5d908d98-884e-419d-b75c-b4d46374fa3f)
+
+
+
+
+
+![Screenshot 2024-01-27 231005](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/58959c0c-e294-4af1-9aa3-9ecbff3fb243)
+
+
+
+
+![Screenshot 2024-01-27 231247](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/2913220d-6dc6-463f-b900-edc14092d9f8)
+
+
+
+
+![Screenshot 2024-01-27 231228](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-02/assets/144195697/4f928693-0fc4-44e0-86fe-30aafdd20bea)
+
