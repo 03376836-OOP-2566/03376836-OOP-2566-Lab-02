@@ -138,6 +138,280 @@ __หมายเหตุ__
 ----------
 
 ## แบบฝึกหัด ##
+## เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3 เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
-เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+# sByte
+```plantuml   
+@startuml
+class sbyte
+{
+  + Maxvalue : sbyte
+  + Minvalue : sbyte
+  + Parse(...) : sbyte 
+  + TryParse(...) : sbyte
+  + CompareTo(...) : sbyte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="168" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/9c3ec0fc-5c64-4517-82e5-2e07fb82a67c">
 
+
+# byte
+```plantuml
+@startuml
+class byte
+{
+  + MaxValue : byte
+  + MinValue : byte
+  + Parse(...) : byte
+  + TryParse(...) : byte
+  + CompareTo(...) : byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="167" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/f8fe9bf7-fd06-44c2-a2e1-d8e516968bb9">
+
+# short
+```plantuml
+@startuml
+class short
+{
+  + MaxValue : short
+  + MinValue : short
+  + Parse(...) : short
+  + TryParse(...) : short
+  + CompareTo(...) : short
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="175" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/6b017c58-0433-49af-9571-372b2fdd8838">
+
+
+# ushort
+```plantuml
+@startuml
+class ushort
+{
+  + MaxValue : ushort
+  + MinValue : ushort
+  + Parse(...) : ushort
+  + TryParse(...) : ushort
+  + CompareTo(...) : ushort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="170" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/99d87c8a-affa-4f84-889a-4428eadae6a9">
+
+
+# int
+```plantuml
+@startuml
+class int
+{
+  + MaxValue : int
+  + MinValue : int
+  + Parse(...) : int
+  + TryParse(...) : int
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="172" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/503e0f86-e8a0-4a8c-8d41-cee6d226d019">
+
+# uint
+```plantuml
+@startuml
+class uint
+{
+  + MaxValue : uint
+  + MinValue : uint
+  + Parse(...) : uint
+  + TryParse(...) : uint
+  + CompareTo(...) : uint
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="169" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/f87f775b-dcf7-4d0e-954a-a6f147538fe8">
+
+# long
+```plantuml
+@startuml
+class long
+{
+  + MaxValue : long
+  + MinValue : long
+  + Parse(...) : long
+  + TryParse(...) : long
+  + CompareTo(...) : long
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="170" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/11bc9d6f-8141-4e5c-bf3c-bbcf9df8ca90">
+
+
+# ulong
+```plantuml
+@startuml
+class ulong
+{
+  + MaxValue : ulong
+  + MinValue : ulong
+  + Parse(...) : ulong
+  + TryParse(...) : ulong
+  + CompareTo(...) : ulong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="175" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/d1f2bf31-df24-421d-8808-02452eaba26d">
+
+# float
+```plantuml
+@startuml
+class float
+{
+  + MaxValue : float
+  + MinValue : float
+  + PositiveInfinity : float
+  + NegativeInfinity : float
+  + NaN : float
+  + Parse(...) : float 
+  + TryParse(...) : float
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="162" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/70fac7a5-d4dc-410e-930b-9ead8a74c429">
+
+# Double
+```plantuml
+@startuml
+class Double
+{
+  + MaxValue : Double
+  + MinValue : Double
+  + PositiveInfinity : Double
+  + NegativeInfinity : Double
+  + NaN : Double
+  + Parse(...) : Double 
+  + TryParse(...) : Double
+  + CompareTo(...) : Double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="177" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/8139c3af-242d-40f4-9bfb-dc4cc1946fc7">
+
+# bool
+```plantuml
+@startuml
+class bool
+{
+  + TrueString : string
+  + FalseString : string
+  + Parse(...) : bool 
+  + TryParse(...) : bool
+  + CompareTo(...) : bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="173" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/7beea649-d88d-4b81-9937-3e8bfc99df17">
+
+# char
+```plantuml
+@startuml
+class char
+{
+  + MaxValue : char
+  + MinValue : char
+  + Parse(...) : char
+  + TryParse(...) : char
+  + CompareTo(...) : char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+<img width="171" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/166aaa3d-0968-4191-a7c0-202ffcc03b87">
+
+# decimal
+```plantuml
+@startuml
+class decimal
+{
+  + Currency(...) : decimal
+  + decimal(Currency value) : decimal
+}
+@enduml
+```
+<img width="207" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/58803caf-55d9-43f1-a2a5-2435dcd97d38">
+
+# object
+```plantuml
+@startuml
+class object
+{
+  + Type(...) : GetType
+}
+@enduml
+```
+<img width="128" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/5db5425d-d90d-46a6-81b3-b5877dafab5a">
+
+# string
+```plantuml
+@startuml
+class string
+{
+  + Intern(...) : string
+  + IsInterned(...) : string 
+}
+@enduml
+```
+<img width="141" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/05cd98b1-2a66-4cde-bf86-c133023fea2c">
+
+# dynamic
+### dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน compile time จึงไม่มีข้อมูลที่แน่นอน
