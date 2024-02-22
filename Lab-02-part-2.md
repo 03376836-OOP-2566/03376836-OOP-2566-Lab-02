@@ -47,3 +47,8 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+## ส่งงาน ##
+<img width="958" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/f4dddcce-e736-447e-812d-dc301367475d">
+
+<img width="866" alt="image" src="https://github.com/Phetteepop/03376836-OOP-2566-Lab-02/assets/144197367/8afa2e14-8d0a-4f1b-9343-f1936fdeec06">
+
