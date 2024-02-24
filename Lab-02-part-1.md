@@ -214,6 +214,7 @@ class ushort
 ```
 # int
 @startuml
+```plantuml
 class int
 {
   + MaxValue : int
