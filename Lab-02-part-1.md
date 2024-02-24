@@ -140,4 +140,22 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+# sByte
+```plantuml   
+@startuml
+class sbyte
+{
+  + MaxValue : sbyte
+  + MinValue : sbyte
+
+  + Parse(...) : sbyte
+  + TryParse(...) : sbyte
+  + CompareTo(...) : sbyte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
 
