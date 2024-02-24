@@ -158,4 +158,21 @@ class sbyte
 }
 @enduml
 ```
+#  byte
+```plantuml  
+@startuml
+class byte
+{
+  + MaxValue : byte
+  + MinValue : byte
+
+  + Parse(...) : byte
+  + TryParse(...) : byte
+  + CompareTo(...) : byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
 
