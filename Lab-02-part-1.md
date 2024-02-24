@@ -175,4 +175,22 @@ class byte
   + ToString(...) : string
 }
 @enduml
+# short
+```plantuml  
+@startuml
+class short
+{
+  + MaxValue : short
+  + MinValue : short
 
+  + Parse(...) : short
+  + TryParse(...) : short
+  + CompareTo(...) : short
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+#  ushort
+```plantuml  
