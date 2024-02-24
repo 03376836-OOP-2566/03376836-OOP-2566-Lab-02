@@ -175,6 +175,7 @@ class byte
   + ToString(...) : string
 }
 @enduml
+```
 # short
 ```plantuml  
 @startuml
@@ -192,6 +193,7 @@ class short
   + ToString(...) : string
 }
 @enduml
+```
 #  ushort
 ```plantuml
 @startuml
@@ -209,3 +211,4 @@ class ushort
   + ToString(...) : string
 }
 @enduml
+```
