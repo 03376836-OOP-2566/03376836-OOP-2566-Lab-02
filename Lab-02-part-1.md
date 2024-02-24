@@ -213,8 +213,8 @@ class ushort
 @enduml
 ```
 # int
-@startuml
 ```plantuml
+@startuml
 class int
 {
   + MaxValue : int
@@ -229,4 +229,42 @@ class int
   + ToString(...) : string
 }
 @enduml
+```
+# uint
+```plantuml
+@startuml
+class uint
+{
+  + MaxValue : uint
+  + MinValue : uint
+
+  + Parse(...) : uint
+  + TryParse(...) : uint
+  + CompareTo(...) : uint
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+
+```
+# long
+```plantuml
+@startuml
+class long
+{
+  + MaxValue : long
+  + MinValue : long
+
+  + Parse(...) : long
+  + TryParse(...) : long
+  + CompareTo(...) : long
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+
 ```
