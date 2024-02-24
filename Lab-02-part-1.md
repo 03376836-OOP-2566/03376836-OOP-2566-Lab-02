@@ -195,4 +195,17 @@ class short
 #  ushort
 ```plantuml
 @startuml
+class ushort
+{
+  + MaxValue : ushort
+  + MinValue : ushort
+
+  + Parse(...) : ushort
+  + TryParse(...) : ushort
+  + CompareTo(...) : ushort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
 @enduml
