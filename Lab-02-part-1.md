@@ -212,3 +212,20 @@ class ushort
 }
 @enduml
 ```
+# int
+@startuml
+class int
+{
+  + MaxValue : int
+  + MinValue : int
+
+  + Parse(...) : int
+  + TryParse(...) : int
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
