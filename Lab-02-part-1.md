@@ -193,4 +193,6 @@ class short
 }
 @enduml
 #  ushort
-```plantuml  
+```plantuml
+@startuml
+@enduml
