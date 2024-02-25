@@ -257,9 +257,11 @@ class uint
   + ToString(...) : string
 }
 @enduml
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/e1e6c4cb-fad2-4000-bb78-187b8496b2d8)
+
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/a05be4de-997b-4a65-94e4-adc47af0b271)
+
 # long
 ```plantuml
 @startuml
