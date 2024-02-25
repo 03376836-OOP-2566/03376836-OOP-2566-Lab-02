@@ -447,4 +447,7 @@ class dynamic
 ```
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/20c81f31-c3b9-4907-b788-2bdb7824eaa6)
 
-       
+<br>
+ใน UML diagram ที่แสดง class dynamic นั้น 
+บ่งบอกว่ามันเป็น dynamic type ซึ่งไม่ระบุประเภทข้อมูลในลักษณะเดียวกับที่เกิดขึ้นใน C# ซึ่งมีความยืดหยุ่นในการใช้งานประเภทข้อมูลขณะ runtime
+<br>       
