@@ -268,3 +268,153 @@ class long
 @enduml
 
 ```
+# ulong
+```plantuml
+# ulong
+@startuml
+class ulong
+{
+  + MaxValue : ulong
+  + MinValue : ulong
+
+  + Parse(...) : ulong
+  + TryParse(...) : ulong
+  + CompareTo(...) : ulong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+
+```
+#  float
+```plantuml
+@startuml
+class float
+{
+  + MaxValue : float
+  + MinValue : float
+  + PositiveInfinity : float
+  + NegativeInfinity : float
+  + NaN : float
+
+  + Parse(...) : float
+  + TryParse(...) : float
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+#  double
+```plantuml
+@startuml
+class double
+{
+  + MaxValue : double
+  + MinValue : double
+  + PositiveInfinity : double
+  + NegativeInfinity : double
+  + NaN : double
+
+  + Parse(...) : double
+  + TryParse(...) : double
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+
+```
+#  bool
+```plantuml
+@startuml
+class bool
+{
+  + TrueString : string
+  + FalseString : string
+
+  + Parse(...) : bool
+  + TryParse(...) : bool
+  + CompareTo(...) : bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+
+```
+ #  char
+```plantuml
+@startuml
+class char
+{
+  + MaxValue : char
+  + MinValue : char
+
+  + Parse(...) : char
+  + TryParse(...) : char
+  + CompareTo(...) : char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+  #  decimal
+```plantuml
+@startuml
+class decimal
+{
+  + Currency(...) : decimal
+
+  + decimal(Currency value) : decimal
+}
+@enduml
+
+```
+
+#     object 
+```plantuml
+@startuml
+class object
+{
+  + Type(...) : GetType
+}
+@enduml
+
+
+
+
+```
+
+
+  #   string
+
+```plantuml
+@startuml
+class string
+{
+  + Intern(...) : string
+  + IsInterned(...) : string
+}
+@enduml
+```
+ #  dynamic
+```plantuml
+@startuml
+class dynamic
+{
+  # Dynamic type in C#
+}
+@enduml
+```
+
+       
