@@ -100,7 +100,6 @@ class Program
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/8c34b685-dce3-4001-b57b-24e8e76a3a78)
 
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/f77ec8ac-9260-4a29-b274-fcd659709a29)
 
 
 
