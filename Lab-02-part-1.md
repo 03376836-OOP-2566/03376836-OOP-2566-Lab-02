@@ -158,6 +158,8 @@ class sbyte
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/0451fef4-fb0e-45ee-9718-6a7a847f6b11)
+
 #  byte
 ```plantuml  
 @startuml
@@ -176,6 +178,8 @@ class byte
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/89648f64-dffe-40ee-91ab-c4e08da85092)
+
 # short
 ```plantuml  
 @startuml
@@ -194,6 +198,8 @@ class short
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/33223bc1-b1cf-48c2-9ca1-145d2a30141d)
+
 #  ushort
 ```plantuml
 @startuml
@@ -212,6 +218,8 @@ class ushort
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/956fc969-9086-4e93-acb0-52496b59354d)
+
 # int
 ```plantuml
 @startuml
@@ -230,6 +238,8 @@ class int
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/0db6d1cb-cdf7-422d-a27e-94353478ffce)
+
 # uint
 ```plantuml
 @startuml
@@ -247,6 +257,7 @@ class uint
   + ToString(...) : string
 }
 @enduml
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/e1e6c4cb-fad2-4000-bb78-187b8496b2d8)
 
 ```
 # long
@@ -268,6 +279,8 @@ class long
 @enduml
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/38031847-cc72-43da-a899-53eb09e7000a)
+
 # ulong
 ```plantuml
 # ulong
@@ -288,6 +301,8 @@ class ulong
 @enduml
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/a6678e78-4680-4e04-9337-624d8d47a4dd)
+
 #  float
 ```plantuml
 @startuml
@@ -309,6 +324,8 @@ class float
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/eac93290-79c9-4744-af53-880c7b253c2d)
+
 #  double
 ```plantuml
 @startuml
@@ -331,6 +348,8 @@ class double
 @enduml
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/ed1cd3be-d40e-4c2c-be16-fc535791983d)
+
 #  bool
 ```plantuml
 @startuml
@@ -350,6 +369,8 @@ class bool
 @enduml
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/085065a0-27ee-4779-ac37-e8d90c30bb2e)
+
  #  char
 ```plantuml
 @startuml
@@ -368,6 +389,8 @@ class char
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/c76b0eb4-e385-48e6-8ccb-f4a42061b0f5)
+
   #  decimal
 ```plantuml
 @startuml
@@ -380,6 +403,7 @@ class decimal
 @enduml
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/4bdf7b7b-38bf-41df-a43f-2fee971b0d10)
 
 #     object 
 ```plantuml
@@ -394,6 +418,7 @@ class object
 
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/63842a38-a340-4655-8159-de7d783c8dc7)
 
 
   #   string
@@ -407,6 +432,8 @@ class string
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/4f03ab92-05d1-4365-b729-24d088ced7ea)
+
  #  dynamic
 ```plantuml
 @startuml
@@ -416,5 +443,6 @@ class dynamic
 }
 @enduml
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-02/assets/144197034/20c81f31-c3b9-4907-b788-2bdb7824eaa6)
 
        
