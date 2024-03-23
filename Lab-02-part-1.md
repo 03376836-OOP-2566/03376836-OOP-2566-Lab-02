@@ -142,6 +142,7 @@ __หมายเหตุ__
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
 ### sByte ###
+```
 @startuml
 class sbyte
 {
@@ -156,4 +157,4 @@ class sbyte
   + ToString(...) : string
 }
 @enduml
-
+```
