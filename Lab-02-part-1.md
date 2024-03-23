@@ -160,3 +160,255 @@ class sbyte
 ```
 ![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/a9984736-5fe9-4cbf-877a-78501aa94264)
 
+### byte ###
+```
+@startuml
+class byte
+{
+  + MaxValue : byte
+  + MinValue : byte
+  + Parse(...) : byte
+  + TryParse(...) : byte
+  + CompareTo(...) : byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/3471cf63-fbf9-4615-a841-50119002d85d)
+
+### short ###
+```
+@startuml
+class short
+{
+  + MaxValue : short
+  + MinValue : short
+  + Parse(...) : short
+  + TryParse(...) : short
+  + CompareTo(...) : short
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/427fac22-0087-4f42-9bbc-744f56d5b6a1)
+
+### ushort ###
+```
+@startuml
+class ushort
+{
+  + MaxValue : ushort
+  + MinValue : ushort
+  + Parse(...) : ushort
+  + TryParse(...) : ushort
+  + CompareTo(...) : ushort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/eaf616c1-eaee-41a8-8b7a-7afab5ce8811)
+
+### int ###
+```
+@startuml
+class int
+{
+  + MaxValue : int
+  + MinValue : int
+  + Parse(...) : int
+  + TryParse(...) : int
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/53a99190-2d2a-42f2-857b-e5f725d49f48)
+
+### uint ###
+```
+@startuml
+class uint
+{
+  + MaxValue : uint
+  + MinValue : uint
+  + Parse(...) : uint
+  + TryParse(...) : uint
+  + CompareTo(...) : uint
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/9f1f3d1c-2f7b-4490-9429-ce77a6308647)
+
+### long ###
+```
+@startuml
+class long
+{
+  + MaxValue : long
+  + MinValue : long
+  + Parse(...) : long
+  + TryParse(...) : long
+  + CompareTo(...) : long
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/a8a155f5-38ee-44bc-86a5-e79000b4f0b5)
+
+### ulong ###
+```
+@startuml
+class ulong
+{
+  + MaxValue : ulong
+  + MinValue : ulong
+  + Parse(...) : ulong
+  + TryParse(...) : ulong
+  + CompareTo(...) : ulong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/d34ccb46-fae2-48d3-8424-6421637ef10b
+
+### float ###
+```
+@startuml
+class float
+{
+  + MaxValue : float
+  + MinValue : float
+  + PositiveInfinity : float
+  + NegativeInfinity : float
+  + NaN : float
+  + Parse(...) : float 
+  + TryParse(...) : float
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/39c9b544-71a9-4651-bcb2-26a324c8f3c8)
+
+### double ###
+```
+@startuml
+class Double
+{
+  + MaxValue : Double
+  + MinValue : Double
+  + PositiveInfinity : Double
+  + NegativeInfinity : Double
+  + NaN : Double
+  + Parse(...) : Double 
+  + TryParse(...) : Double
+  + CompareTo(...) : Double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/311414ea-f291-4e52-b209-4f1a04152fa3)
+
+### bool ###
+```
+@startuml
+class bool
+{
+  + TrueString : string
+  + FalseString : string
+  + Parse(...) : bool 
+  + TryParse(...) : bool
+  + CompareTo(...) : bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/1260db64-5417-41cd-b3f2-89d30f36aac6)
+
+### char ###
+```
+@startuml
+class char
+{
+  + MaxValue : char
+  + MinValue : char
+  + Parse(...) : char
+  + TryParse(...) : char
+  + CompareTo(...) : char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/57b5fdd6-5d96-4e5b-b019-df9d0bd61dab)
+
+### decimal ###
+```
+@startuml
+class decimal
+{
+  + Currency(...) : decimal
+  + decimal(Currency value) : decimal
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/40f508ce-f968-4bba-8a2f-cba65f66a696)
+
+### object ###
+```
+@startuml
+class object
+{
+  + Type(...) : GetType
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/b48e3930-263b-4401-9ddf-d67cc14cefc9)
+
+### string ###
+```
+@startuml
+class string
+{
+  + Intern(...) : string
+  + IsInterned(...) : string 
+}
+@enduml
+```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/11179153-963a-4671-9aa1-3b227f15a1a0)
+
+### dynamic ###
+dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน compile time จึงไม่มีข้อมูลที่แน่นอน
