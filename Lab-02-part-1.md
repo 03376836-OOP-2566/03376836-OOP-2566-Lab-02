@@ -141,3 +141,283 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+sByte
+```
+@startuml
+class sbyte
+{
+  + Maxvalue : sbyte
+  + Minvalue : sbyte
+  + Parse(...) : sbyte 
+  + TryParse(...) : sbyte
+  + CompareTo(...) : sbyte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/a35299a5-b5ed-4c00-85f0-a4478cc7cc7b)
+
+Byte
+```
+@startuml
+class byte
+{
+  + MaxValue : byte
+  + MinValue : byte
+  + Parse(...) : byte
+  + TryParse(...) : byte
+  + CompareTo(...) : byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/1ccfde05-ae11-4b65-909c-9220e515eed5)
+
+short
+```
+@startuml
+class short
+{
+  + MaxValue : short
+  + MinValue : short
+  + Parse(...) : short
+  + TryParse(...) : short
+  + CompareTo(...) : short
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/9af15365-daac-40a4-a121-741a337486d0)
+
+ushort
+```
+@startuml
+class ushort
+{
+  + MaxValue : ushort
+  + MinValue : ushort
+  + Parse(...) : ushort
+  + TryParse(...) : ushort
+  + CompareTo(...) : ushort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/20495e9b-caf5-4be3-89bf-c645ab1561dd)
+
+int
+```
+@startuml
+class int
+{
+  + MaxValue : int
+  + MinValue : int
+  + Parse(...) : int
+  + TryParse(...) : int
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/1683e827-13b7-471c-9f50-a071c39412b4)
+
+unit
+```
+@startuml
+class uint
+{
+  + MaxValue : uint
+  + MinValue : uint
+  + Parse(...) : uint
+  + TryParse(...) : uint
+  + CompareTo(...) : uint
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/31d41260-1a9a-4056-8885-6e171748198f)
+
+long
+```
+@startuml
+class long
+{
+  + MaxValue : long
+  + MinValue : long
+  + Parse(...) : long
+  + TryParse(...) : long
+  + CompareTo(...) : long
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/7a2cd880-b6ab-42ac-a122-be7d3efa3977)
+
+ulong
+```
+@startuml
+class ulong
+{
+  + MaxValue : ulong
+  + MinValue : ulong
+  + Parse(...) : ulong
+  + TryParse(...) : ulong
+  + CompareTo(...) : ulong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/35e30b06-dd4a-434c-b12e-fe82aea1af40)
+
+float
+```
+@startuml
+class float
+{
+  + MaxValue : float
+  + MinValue : float
+  + PositiveInfinity : float
+  + NegativeInfinity : float
+  + NaN : float
+  + Parse(...) : float 
+  + TryParse(...) : float
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/bde89a54-28ca-4045-a72c-0f2513b9142f)
+
+double
+```
+@startuml
+class Double
+{
+  + MaxValue : Double
+  + MinValue : Double
+  + PositiveInfinity : Double
+  + NegativeInfinity : Double
+  + NaN : Double
+  + Parse(...) : Double 
+  + TryParse(...) : Double
+  + CompareTo(...) : Double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/3b6306d2-1f8b-4180-83a5-0c9822bb0775)
+
+bool
+```
+@startuml
+class bool
+{
+  + TrueString : string
+  + FalseString : string
+  + Parse(...) : bool 
+  + TryParse(...) : bool
+  + CompareTo(...) : bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/e920c5e8-449a-49c3-a119-deb4e0670e59)
+
+char
+```
+@startuml
+class char
+{
+  + MaxValue : char
+  + MinValue : char
+  + Parse(...) : char
+  + TryParse(...) : char
+  + CompareTo(...) : char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/eeca4221-185c-4ccc-95e4-fd61d6d82ca2)
+
+decimal
+```
+@startuml
+class decimal
+{
+  + Currency(...) : decimal
+  + decimal(Currency value) : decimal
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/539f85d6-384b-428d-8f20-52ceec517708)
+
+object
+```
+@startuml
+class object
+{
+  + Type(...) : GetType
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/2bc1d448-a4ab-47d3-942d-09b5200d3556)
+
+string
+```
+@startuml
+class string
+{
+  + Intern(...) : string
+  + IsInterned(...) : string 
+}
+@enduml
+```
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/1c8aecac-cd1a-4cff-9bf7-b07429985597)
+
+dynamic
+dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน compile time จึงไม่มีข้อมูลที่แน่นอน
+
+
+
+
+
+
+
+
+
