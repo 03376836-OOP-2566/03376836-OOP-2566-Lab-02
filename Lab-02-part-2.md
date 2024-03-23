@@ -47,3 +47,8 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
+## ส่งงาน ##
+<img width="957" alt="Screenshot 2024-03-23 224254" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-02/assets/144195963/4afadd78-a23e-49ed-8436-62b9096ae979">
+
+<img width="958" alt="Screenshot 2024-03-23 224103" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-02/assets/144195963/1f97bb9b-2b14-4372-8601-e0418f732719">
