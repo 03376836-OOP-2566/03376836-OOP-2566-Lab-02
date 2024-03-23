@@ -158,3 +158,5 @@ class sbyte
 }
 @enduml
 ```
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/a9984736-5fe9-4cbf-877a-78501aa94264)
+
