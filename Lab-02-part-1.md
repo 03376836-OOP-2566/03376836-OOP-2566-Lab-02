@@ -4,8 +4,9 @@
 
 ### Learning Outcome ###
 1. นักศึกษารู้จัก predefined type และบอกได้ว่ามีอะไรบ้าง
-2. นักศึกษารู้จักองค์ประกอบของ predefined type แต่ละชนิดและสามารถสร้างแผนภาพอธิบาย type เหล่านั้นได้
-
+ 
+3. นักศึกษารู้จักองค์ประกอบของ predefined type แต่ละชนิดและสามารถสร้างแผนภาพอธิบาย type เหล่านั้นได้
+    
 ### ความรู้เบื้องต้น ###
 #### 1.  Predefined type ในภาษา C# ####
 
@@ -140,4 +141,186 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+
+```
+@startuml
+class SByte
+{
+  + MaxValue : SByte
+  + MinValue : SByte
+
+  + Parse(...) : SByte 
+  + TryParse(...) : SByte
+  + CompareTo(...) : SByte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+class Byte
+{
+  + MaxValue : Byte
+  + MinValue : Byte
+
+  + Parse(...) : Byte 
+  + TryParse(...) : Byte
+  + CompareTo(...) : Byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+class Short
+{
+  + MaxValue : Short
+  + MinValue : Short
+
+  + Parse(...) : Short 
+  + TryParse(...) : Short
+  + CompareTo(...) : Short
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class UShort
+{
+  + MaxValue : UShort
+  + MinValue : UShort
+
+  + Parse(...) : UShort 
+  + TryParse(...) : UShort
+  + CompareTo(...) : UShort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class Int
+{
+  + MaxValue : Int
+  + MinValue : Int
+
+  + Parse(...) : Int 
+  + TryParse(...) : Int
+  + CompareTo(...) : Int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class UInt
+{
+  + MaxValue : UInt
+  + MinValue : UInt
+
+  + Parse(...) : UInt 
+  + TryParse(...) : UInt
+  + CompareTo(...) : UInt
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class Long
+{
+  + MaxValue : Long
+  + MinValue : Long
+
+  + Parse(...) : Long 
+  + TryParse(...) : Long
+  + CompareTo(...) : Long
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class ULong
+{
+  + MaxValue : ULong
+  + MinValue : ULong
+
+  + Parse(...) : ULong 
+  + TryParse(...) : ULong
+  + CompareTo(...) : ULong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class Float
+{
+  + MaxValue : Float
+  + MinValue : Float
+
+  + Parse(...) : Float 
+  + TryParse(...) : Float
+  + CompareTo(...) : Float
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class Double
+{
+  + MaxValue : Double
+  + MinValue : Double
+
+  + Parse(...) : Double 
+  + TryParse(...) : Double
+  + CompareTo(...) : Double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class Decimal
+{
+  + MaxValue : Decimal
+  + MinValue : Decimal
+
+  + Parse(...) : Decimal 
+  + TryParse(...) : Decimal
+  + CompareTo(...) : Decimal
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class Char
+{
+  + MaxValue : Char
+  + MinValue : Char
+
+  + Parse(...) : Char 
+  + TryParse(...) : Char
+  + CompareTo(...) : Char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+
+class Bool
+{
+  + Parse(...) : Bool 
+  + TryParse(...) : Bool
+  + CompareTo(...) : Bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-02/assets/144195611/05d2e0b1-e95b-434c-941f-773e1483da72)
 
