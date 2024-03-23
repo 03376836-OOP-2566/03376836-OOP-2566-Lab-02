@@ -45,5 +45,13 @@ Console.WriteLine($"string st\t{st.GetType()}\t{st.GetTypeCode()} ");
 Console.WriteLine("============================================================================");
 
 ```
+ ### ส่งงาน
+
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/cb3eadd9-f65b-4320-bc05-370027bf3f54)
+
+![image](https://github.com/Siriratda/03376836-OOP-2566-Lab-02/assets/144195995/6e4f7590-308e-4c68-b354-b53daa6c96d2)
+
+
+
 
 ![](./Pictures/Lab5_2_Pic1.png)
