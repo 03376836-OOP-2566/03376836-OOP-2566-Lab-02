@@ -158,7 +158,8 @@ class sbyte
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/a9984736-5fe9-4cbf-877a-78501aa94264)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/44cb5d79-be93-49c5-ae05-e805366a7afd)
+
 
 ### byte ###
 ```
@@ -177,7 +178,8 @@ class byte
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/3471cf63-fbf9-4615-a841-50119002d85d)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/80f1e690-e2af-4c06-8090-115d691b5369)
+
 
 ### short ###
 ```
@@ -196,7 +198,8 @@ class short
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/427fac22-0087-4f42-9bbc-744f56d5b6a1)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/18c39802-ce5c-41b9-bbfe-b2cfc9131e8a)
+
 
 ### ushort ###
 ```
@@ -215,7 +218,8 @@ class ushort
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/eaf616c1-eaee-41a8-8b7a-7afab5ce8811)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/6fea27c3-a655-4067-a002-91e883a0d5ac)
+
 
 ### int ###
 ```
@@ -234,7 +238,8 @@ class int
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/53a99190-2d2a-42f2-857b-e5f725d49f48)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/9cc449c9-5f16-48ec-aacb-96f0cc3b26d8)
+
 
 ### uint ###
 ```
@@ -253,7 +258,8 @@ class uint
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/9f1f3d1c-2f7b-4490-9429-ce77a6308647)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/5d958ea1-1d1b-49a6-81c0-aca719b87a8e)
+
 
 ### long ###
 ```
@@ -272,7 +278,7 @@ class long
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/a8a155f5-38ee-44bc-86a5-e79000b4f0b5)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/96f5affa-1892-437a-a092-2236d536e9c0)
 
 ### ulong ###
 ```
@@ -291,7 +297,8 @@ class ulong
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/82256a75-4146-42fc-be62-83623b432fcf)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/9f8dca0e-2280-4618-a4a5-b1ad0160baf4)
+
 
 
 ### float ###
@@ -314,7 +321,8 @@ class float
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/39c9b544-71a9-4651-bcb2-26a324c8f3c8)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/44df02af-9f5e-425b-84a2-b0271ac4829e)
+
 
 ### double ###
 ```
@@ -336,7 +344,8 @@ class Double
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/311414ea-f291-4e52-b209-4f1a04152fa3)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/45a43398-a2b5-48b9-9b5f-fb71a64b11af)
+
 
 ### bool ###
 ```
@@ -355,7 +364,8 @@ class bool
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/1260db64-5417-41cd-b3f2-89d30f36aac6)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/788ac1e5-b740-440f-98c8-1c646c2b3bd8)
+
 
 ### char ###
 ```
@@ -374,7 +384,8 @@ class char
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/57b5fdd6-5d96-4e5b-b019-df9d0bd61dab)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/5427e136-aad8-4a1c-813b-f6aee2384c46)
+
 
 ### decimal ###
 ```
@@ -386,7 +397,8 @@ class decimal
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/40f508ce-f968-4bba-8a2f-cba65f66a696)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/23d3afca-5741-425d-a909-c38f043a7876)
+
 
 ### object ###
 ```
@@ -397,7 +409,8 @@ class object
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/b48e3930-263b-4401-9ddf-d67cc14cefc9)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/6a8ebef8-8c6d-40a9-a47b-9be78f78d067)
+
 
 ### string ###
 ```
@@ -409,7 +422,8 @@ class string
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/11179153-963a-4671-9aa1-3b227f15a1a0)
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/0bcd82eb-91bd-4e01-a0d4-261e0bc8866b)
+
 
 ### dynamic ###
 dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน compile time จึงไม่มีข้อมูลที่แน่นอน
