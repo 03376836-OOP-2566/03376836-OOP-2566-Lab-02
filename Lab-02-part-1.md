@@ -141,3 +141,289 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+### sByte ###
+```
+@startuml
+class sbyte
+{
+  + Maxvalue : sbyte
+  + Minvalue : sbyte
+  + Parse(...) : sbyte 
+  + TryParse(...) : sbyte
+  + CompareTo(...) : sbyte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/44cb5d79-be93-49c5-ae05-e805366a7afd)
+
+
+### byte ###
+```
+@startuml
+class byte
+{
+  + MaxValue : byte
+  + MinValue : byte
+  + Parse(...) : byte
+  + TryParse(...) : byte
+  + CompareTo(...) : byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/80f1e690-e2af-4c06-8090-115d691b5369)
+
+
+### short ###
+```
+@startuml
+class short
+{
+  + MaxValue : short
+  + MinValue : short
+  + Parse(...) : short
+  + TryParse(...) : short
+  + CompareTo(...) : short
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/18c39802-ce5c-41b9-bbfe-b2cfc9131e8a)
+
+
+### ushort ###
+```
+@startuml
+class ushort
+{
+  + MaxValue : ushort
+  + MinValue : ushort
+  + Parse(...) : ushort
+  + TryParse(...) : ushort
+  + CompareTo(...) : ushort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/6fea27c3-a655-4067-a002-91e883a0d5ac)
+
+
+### int ###
+```
+@startuml
+class int
+{
+  + MaxValue : int
+  + MinValue : int
+  + Parse(...) : int
+  + TryParse(...) : int
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/9cc449c9-5f16-48ec-aacb-96f0cc3b26d8)
+
+
+### uint ###
+```
+@startuml
+class uint
+{
+  + MaxValue : uint
+  + MinValue : uint
+  + Parse(...) : uint
+  + TryParse(...) : uint
+  + CompareTo(...) : uint
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/5d958ea1-1d1b-49a6-81c0-aca719b87a8e)
+
+
+### long ###
+```
+@startuml
+class long
+{
+  + MaxValue : long
+  + MinValue : long
+  + Parse(...) : long
+  + TryParse(...) : long
+  + CompareTo(...) : long
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/96f5affa-1892-437a-a092-2236d536e9c0)
+
+### ulong ###
+```
+@startuml
+class ulong
+{
+  + MaxValue : ulong
+  + MinValue : ulong
+  + Parse(...) : ulong
+  + TryParse(...) : ulong
+  + CompareTo(...) : ulong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/9f8dca0e-2280-4618-a4a5-b1ad0160baf4)
+
+
+
+### float ###
+```
+@startuml
+class float
+{
+  + MaxValue : float
+  + MinValue : float
+  + PositiveInfinity : float
+  + NegativeInfinity : float
+  + NaN : float
+  + Parse(...) : float 
+  + TryParse(...) : float
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/44df02af-9f5e-425b-84a2-b0271ac4829e)
+
+
+### double ###
+```
+@startuml
+class Double
+{
+  + MaxValue : Double
+  + MinValue : Double
+  + PositiveInfinity : Double
+  + NegativeInfinity : Double
+  + NaN : Double
+  + Parse(...) : Double 
+  + TryParse(...) : Double
+  + CompareTo(...) : Double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/45a43398-a2b5-48b9-9b5f-fb71a64b11af)
+
+
+### bool ###
+```
+@startuml
+class bool
+{
+  + TrueString : string
+  + FalseString : string
+  + Parse(...) : bool 
+  + TryParse(...) : bool
+  + CompareTo(...) : bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/788ac1e5-b740-440f-98c8-1c646c2b3bd8)
+
+
+### char ###
+```
+@startuml
+class char
+{
+  + MaxValue : char
+  + MinValue : char
+  + Parse(...) : char
+  + TryParse(...) : char
+  + CompareTo(...) : char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/5427e136-aad8-4a1c-813b-f6aee2384c46)
+
+
+### decimal ###
+```
+@startuml
+class decimal
+{
+  + Currency(...) : decimal
+  + decimal(Currency value) : decimal
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/23d3afca-5741-425d-a909-c38f043a7876)
+
+
+### object ###
+```
+@startuml
+class object
+{
+  + Type(...) : GetType
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/6a8ebef8-8c6d-40a9-a47b-9be78f78d067)
+
+
+### string ###
+```
+@startuml
+class string
+{
+  + Intern(...) : string
+  + IsInterned(...) : string 
+}
+@enduml
+```
+![image](https://github.com/SuphawadiP/03376836-OOP-2566-Lab-02/assets/144196049/0bcd82eb-91bd-4e01-a0d4-261e0bc8866b)
+
+
+### dynamic ###
+dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน compile time จึงไม่มีข้อมูลที่แน่นอน
