@@ -160,3 +160,256 @@ class sbyte
 ```
 ![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/ed64e27d-674e-443e-bd87-f6974eea0fbd)
 
+### byte ###
+```
+@startuml
+class byte
+{
+  + MaxValue : byte
+  + MinValue : byte
+  + Parse(...) : byte
+  + TryParse(...) : byte
+  + CompareTo(...) : byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/424ae63c-66b4-4bb8-9433-9c77aad5d565)
+
+### short ###
+```
+@startuml
+class short
+{
+  + MaxValue : short
+  + MinValue : short
+  + Parse(...) : short
+  + TryParse(...) : short
+  + CompareTo(...) : short
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/7be0f37e-6a00-4f10-a753-198c94a202dd)
+
+### ushort ###
+```
+@startuml
+class ushort
+{
+  + MaxValue : ushort
+  + MinValue : ushort
+  + Parse(...) : ushort
+  + TryParse(...) : ushort
+  + CompareTo(...) : ushort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/78b20a4e-0178-4e7f-a40c-f2f65d4fe085)
+
+### int ###
+```
+@startuml
+class int
+{
+  + MaxValue : int
+  + MinValue : int
+  + Parse(...) : int
+  + TryParse(...) : int
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/cdc1ae0b-930e-4c45-a8e6-32d618f52d77)
+
+### unit ##
+```
+@startuml
+class uint
+{
+  + MaxValue : uint
+  + MinValue : uint
+  + Parse(...) : uint
+  + TryParse(...) : uint
+  + CompareTo(...) : uint
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/94aaabf2-9a28-4602-b465-cfb7b4810f46)
+
+### long ###
+```
+@startuml
+class long
+{
+  + MaxValue : long
+  + MinValue : long
+  + Parse(...) : long
+  + TryParse(...) : long
+  + CompareTo(...) : long
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/c128ef35-6894-4cf7-a586-c874ccc2f5d1)
+
+### ulong ###
+```
+@startuml
+class ulong
+{
+  + MaxValue : ulong
+  + MinValue : ulong
+  + Parse(...) : ulong
+  + TryParse(...) : ulong
+  + CompareTo(...) : ulong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/9c60213e-7067-42d7-8230-b7d2bdb74361)
+
+### float ###
+```
+@startuml
+class float
+{
+  + MaxValue : float
+  + MinValue : float
+  + PositiveInfinity : float
+  + NegativeInfinity : float
+  + NaN : float
+  + Parse(...) : float 
+  + TryParse(...) : float
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/51f3016a-60aa-478d-a4e0-8c848833ff1b)
+
+### double ###
+```
+@startuml
+class Double
+{
+  + MaxValue : Double
+  + MinValue : Double
+  + PositiveInfinity : Double
+  + NegativeInfinity : Double
+  + NaN : Double
+  + Parse(...) : Double 
+  + TryParse(...) : Double
+  + CompareTo(...) : Double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/fa7104e5-e8b7-4840-ba45-5a4eda5188fb)
+
+### bool ###
+```
+@startuml
+class bool
+{
+  + TrueString : string
+  + FalseString : string
+  + Parse(...) : bool 
+  + TryParse(...) : bool
+  + CompareTo(...) : bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/523527ff-e9c3-48ff-9b3b-bec3e33f7610)
+
+### char ###
+```
+@startuml
+class char
+{
+  + MaxValue : char
+  + MinValue : char
+  + Parse(...) : char
+  + TryParse(...) : char
+  + CompareTo(...) : char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/e4069fb4-bc37-410c-b529-e9e00585e96f)
+
+### decimal ###
+```
+@startuml
+class decimal
+{
+  + Currency(...) : decimal
+  + decimal(Currency value) : decimal
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/38e70d05-65fc-42ce-ae15-b50d238ddf3d)
+
+### object ###
+```
+@startuml
+class object
+{
+  + Type(...) : GetType
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/d73d14a6-8bd7-475a-8253-6ac0b4329703)
+
+### string ###
+```
+@startuml
+class string
+{
+  + Intern(...) : string
+  + IsInterned(...) : string 
+}
+@enduml
+```
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/a93dd89d-7051-4ab7-8c73-7789e2b34168)
+
+### dynamic ###
+
+dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน compile time จึงไม่มีข้อมูลที่แน่นอน
