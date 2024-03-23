@@ -291,7 +291,8 @@ class ulong
 }
 @enduml
 ```
-![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/d34ccb46-fae2-48d3-8424-6421637ef10b
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-02/assets/144195555/82256a75-4146-42fc-be62-83623b432fcf)
+
 
 ### float ###
 ```
