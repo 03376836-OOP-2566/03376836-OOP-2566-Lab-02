@@ -141,3 +141,21 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+sByte
+@startuml
+class sbyte
+{
+  + Maxvalue : sbyte
+  + Minvalue : sbyte
+  + Parse(...) : sbyte 
+  + TryParse(...) : sbyte
+  + CompareTo(...) : sbyte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+
+![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-02/assets/144195683/ed64e27d-674e-443e-bd87-f6974eea0fbd)
+
