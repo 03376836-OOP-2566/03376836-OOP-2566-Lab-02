@@ -140,4 +140,51 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+1.byte
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/d05a271a-4b0d-4915-a71a-b02b51d54d69)
+
+2.short
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/a7866cf1-a4ab-432e-b9bc-7506a8b26e82)
+
+3.ushort
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/fd76bb8b-0040-4496-aaab-d4d941a959f1)
+
+4.int
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/6bb3f779-d1f4-4c86-a142-d9aa212455e3)
+
+5.uint
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/358e55ed-9026-4bdf-8134-dba1ed184ca4)
+
+6.long
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/a4795106-4d8e-4e5a-96c0-7eaae94d80ce)
+
+7.ulong
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/63431012-de52-491d-b9b3-e577dac9b4fd)
+
+8.float 
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/3435a0f0-c961-4b16-99d8-70dab89da938)
+
+
+9. double
+ ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/22609fb0-ce79-4e03-b73f-aec3d7edbafb)
+
+10. bool
+ ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/70aebee9-ce5b-4e49-8e97-1c634027e913)
+
+11.char 
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/f9df3657-7d16-4888-a0d3-2b4f7294674e)
+
+12.decimal 
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/44fde701-edd9-4803-af0e-1f0550e64e28)
+
+13.object
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/0a65e89a-355a-4f4c-b12a-e4d1f66787dd)
+
+14.string
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/1182fccd-d671-4ef3-895a-209fa147e0c0)
+
+15.dynamic
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/2c47b48e-d746-42cb-91ad-3505b223b7df)
+
+
 
