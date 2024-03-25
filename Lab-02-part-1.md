@@ -140,4 +140,272 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
+### sByte ###
+```
+@startuml
+class sbyte
+{
+  + Maxvalue : sbyte
+  + Minvalue : sbyte
+  + Parse(...) : sbyte 
+  + TryParse(...) : sbyte
+  + CompareTo(...) : sbyte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/54ae0647-c126-4503-82cf-4488a749eacd)
 
+### byte ###
+```
+@startuml
+class byte
+{
+  + MaxValue : byte
+  + MinValue : byte
+  + Parse(...) : byte
+  + TryParse(...) : byte
+  + CompareTo(...) : byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/208e17f3-81a0-446b-9c29-1bc273d46a92)
+### short ###
+```
+@startuml
+class short
+{
+  + MaxValue : short
+  + MinValue : short
+  + Parse(...) : short
+  + TryParse(...) : short
+  + CompareTo(...) : short
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/e654be0d-2a8e-456a-93d2-9dbb53ca0da1)
+
+### ushort ###
+```
+@startuml
+class ushort
+{
+  + MaxValue : ushort
+  + MinValue : ushort
+  + Parse(...) : ushort
+  + TryParse(...) : ushort
+  + CompareTo(...) : ushort
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/61406dcc-5efc-431c-ab7b-d43c0cc57b2d)
+
+### int ###
+```
+@startuml
+class int
+{
+  + MaxValue : int
+  + MinValue : int
+  + Parse(...) : int
+  + TryParse(...) : int
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/39436d1a-832c-445d-a052-880f8fb7dc1d)
+### uint ###
+```
+@startuml
+class uint
+{
+  + MaxValue : uint
+  + MinValue : uint
+  + Parse(...) : uint
+  + TryParse(...) : uint
+  + CompareTo(...) : uint
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/b68bfa2b-efa1-474f-8f0f-822e9e8f88a7)
+
+### long ###
+```
+@startuml
+class long
+{
+  + MaxValue : long
+  + MinValue : long
+  + Parse(...) : long
+  + TryParse(...) : long
+  + CompareTo(...) : long
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/79340ce2-a766-448b-8885-5284a9d3dd59)
+
+### ulong ###
+```
+@startuml
+class ulong
+{
+  + MaxValue : ulong
+  + MinValue : ulong
+  + Parse(...) : ulong
+  + TryParse(...) : ulong
+  + CompareTo(...) : ulong
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/15535b10-3b3a-41db-942c-c2d1ca9d3501)
+
+### float ###
+```
+@startuml
+class float
+{
+  + MaxValue : float
+  + MinValue : float
+  + PositiveInfinity : float
+  + NegativeInfinity : float
+  + NaN : float
+  + Parse(...) : float 
+  + TryParse(...) : float
+  + CompareTo(...) : int
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/dd440b9c-e772-4360-ac03-86d213df5940)
+
+### double ###
+```
+@startuml
+class Double
+{
+  + MaxValue : Double
+  + MinValue : Double
+  + PositiveInfinity : Double
+  + NegativeInfinity : Double
+  + NaN : Double
+  + Parse(...) : Double 
+  + TryParse(...) : Double
+  + CompareTo(...) : Double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/c874debc-26b7-4cad-9d42-d403d4aad799)
+
+### bool ###
+```
+@startuml
+class bool
+{
+  + TrueString : string
+  + FalseString : string
+  + Parse(...) : bool 
+  + TryParse(...) : bool
+  + CompareTo(...) : bool
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/12959402-6a8e-4362-b4d9-fdfd42c2024b)
+
+### char ###
+```
+@startuml
+class char
+{
+  + MaxValue : char
+  + MinValue : char
+  + Parse(...) : char
+  + TryParse(...) : char
+  + CompareTo(...) : char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/a7464062-7813-4a0e-b3bb-ef19d9cc9799)
+
+### decimal ###
+```
+@startuml
+class decimal
+{
+  + Currency(...) : decimal
+  + decimal(Currency value) : decimal
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/86492725-d454-478e-ba53-5bd92006a6dc)
+
+### object ###
+```
+@startuml
+class object
+{
+  + Type(...) : GetType
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/b926ded1-7f37-4b1a-b7e8-448749d22d2a)
+
+### string ###
+```
+@startuml
+class string
+{
+  + Intern(...) : string
+  + IsInterned(...) : string 
+}
+@enduml
+```
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/c43c77fc-ee86-4d53-9c5c-bebb0ef29e11)
+
+### dynamic ###
+dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน compile time จึงไม่มีข้อมูลที่แน่นอน

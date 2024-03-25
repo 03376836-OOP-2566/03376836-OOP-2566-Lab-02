@@ -47,3 +47,8 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
+### ส่งงาน
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/133899ea-38b7-415b-adaf-a617c3810752)
+
+![image](https://github.com/kanoksiriboonkam/03376836-OOP-2566-Lab-02/assets/144196048/f705b5ae-f3f6-4eeb-86c6-ec00f159230b)
