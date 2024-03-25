@@ -177,6 +177,14 @@ __หมายเหตุ__
 12.decimal 
 ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/44fde701-edd9-4803-af0e-1f0550e64e28)
 
+13.object
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/0a65e89a-355a-4f4c-b12a-e4d1f66787dd)
+
+14.string
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/1182fccd-d671-4ef3-895a-209fa147e0c0)
+
+15.dynamic
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-02/assets/144195708/2c47b48e-d746-42cb-91ad-3505b223b7df)
 
 
 
