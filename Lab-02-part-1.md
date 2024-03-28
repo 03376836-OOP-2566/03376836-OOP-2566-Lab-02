@@ -140,4 +140,188 @@ __หมายเหตุ__
 ## แบบฝึกหัด ##
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
-
+#### @startuml
+class SByte
+{
+  + MaxValue : SByte
+  + MinValue : SByte
+ 
+  + Parse(...) : SByte 
+  + TryParse(...) : SByte
+  + CompareTo(...) : SByte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Byte
+{
+  + MaxValue : Byte
+  + MinValue : Byte
+ 
+  + Parse(...) : Byte 
+  + TryParse(...) : Byte
+  + CompareTo(...) : Byte
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Int16
+{
+  + MaxValue : Int16
+  + MinValue : Int16
+ 
+  + Parse(...) : Int16 
+  + TryParse(...) : Int16
+  + CompareTo(...) : Int16
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class UInt16
+{
+  + MaxValue : UInt16
+  + MinValue : UInt16
+ 
+  + Parse(...) : UInt16 
+  + TryParse(...) : UInt16
+  + CompareTo(...) : UInt16
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Int32
+{
+  + MaxValue : Int32
+  + MinValue : Int32
+ 
+  + Parse(...) : Int32 
+  + TryParse(...) : Int32
+  + CompareTo(...) : Int32
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class UInt32
+{
+  + MaxValue : UInt32
+  + MinValue : UInt32
+ 
+  + Parse(...) : UInt32 
+  + TryParse(...) : UInt32
+  + CompareTo(...) : UInt32
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Int64
+{
+  + MaxValue : Int64
+  + MinValue : Int64
+ 
+  + Parse(...) : Int64 
+  + TryParse(...) : Int64
+  + CompareTo(...) : Int64
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class UInt64
+{
+  + MaxValue : UInt64
+  + MinValue : UInt64
+ 
+  + Parse(...) : UInt64 
+  + TryParse(...) : UInt64
+  + CompareTo(...) : UInt64
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Single
+{
+  + MaxValue : Single
+  + MinValue : Single
+ 
+  + Parse(...) : Single 
+  + TryParse(...) : Single
+  + CompareTo(...) : Single
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Double
+{
+  + MaxValue : Double
+  + MinValue : Double
+ 
+  + Parse(...) : Double 
+  + TryParse(...) : Double
+  + CompareTo(...) : Double
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Decimal
+{
+  + MaxValue : Decimal
+  + MinValue : Decimal
+ 
+  + Parse(...) : Decimal 
+  + TryParse(...) : Decimal
+  + CompareTo(...) : Decimal
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Char
+{
+  + MaxValue : Char
+  + MinValue : Char
+ 
+  + Parse(...) : Char 
+  + TryParse(...) : Char
+  + CompareTo(...) : Char
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+ 
+class Boolean
+{
+  + FalseString : string
+  + TrueString : string
+ 
+  + Parse(...) : Boolean 
+  + TryParse(...) : Boolean
+  + CompareTo(...) : Boolean
+  + Equals(...) : bool
+  + GetHashCode() : int
+  + GetTypeCode() : TypeCode
+  + ToString(...) : string
+}
+@enduml
+## ![Screenshot 2024-03-24 010151](https://github.com/ironmanwin1/03376836-OOP-2566-Lab-02/assets/144198724/8d4d0a3d-f351-46ce-98e8-00c39ba288a7)
+## ![Screenshot 2024-03-24 010129](https://github.com/ironmanwin1/03376836-OOP-2566-Lab-02/assets/144198724/9c732fc4-3577-4001-b2bd-117a6d60f1e2)
